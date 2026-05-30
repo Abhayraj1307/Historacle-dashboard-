@@ -284,18 +284,6 @@ Open the URL in your browser to access the dashboard.
 
 ---
 
-# Screenshots
-
-## Dashboard Overview
-(Add screenshot here)
-
-## Viral Predictor
-(Add screenshot here)
-
-## Teleport Experience
-(Add screenshot here)
-
----
 
 # Final Statement
 
